@@ -1,0 +1,13 @@
+<!-- go to Shop.js
+1. What is useState()?
+2. when and why we declare it?
+3. what function/happened inside useState()?
+ -->
+
+<!--
+4. why we set or write parameter name as (product)?
+5. what is going on here?
+6. what comes here and where it is gone?
+7. previously what is in the cart? why we do this [...cart, product]?
+after doing that what happened in the setCart() and its useState()?
+-->
