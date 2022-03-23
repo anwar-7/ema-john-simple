@@ -2,9 +2,8 @@
 1. What is useState()?
 2. when and why we declare it?
 3. what function/happened inside useState()?
- -->
-
-<!--
+---->
+<----!----
 4. why we set or write parameter name as (product)?
 5. what is going on here?
 6. what comes here and where it is gone?
