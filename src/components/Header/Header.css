@@ -1,5 +1,5 @@
 .header {
-  max-width: 100%;
+  /* max-width: 100%; */
   height: 80px;
   background-color: rgba(28, 43, 53, 1);
   display: flex;
@@ -19,3 +19,21 @@
 .header a:hover {
   color: orange;
 }
+
+/* @media screen and (max-width: 1100px) {
+  .header {
+    width: 100%;
+  }
+} */
+
+/* @media screen and (min-width: 400px) and (max-width: 700px) {
+  .header {
+    width: 100%;
+
+    padding-left: 5%;
+  }
+
+  .header img {
+    width: 100px;
+  }
+} */
