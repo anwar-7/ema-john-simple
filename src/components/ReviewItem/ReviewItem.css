@@ -13,7 +13,8 @@
 }
 
 .review-item-details p{
-margin: 0;
+    margin: 0;
+    padding-left: 17px;
 }
 
 .review-item-details-container{
